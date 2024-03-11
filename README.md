@@ -1,4 +1,3 @@
 # grroxy-issues
-This repo is to manage issues in grroxy.
-
-### Latest Version is [v0.15.2](https://github.com/glitchedgitz/grroxy-issues/releases/tag/v0.15.2)
+Create issues and discussions for [grroxy](https://grroxy.com/)    
+### Latest beta release is [v0.15.7](https://github.com/glitchedgitz/grroxy-issues/releases/tag/v0.15.7)
